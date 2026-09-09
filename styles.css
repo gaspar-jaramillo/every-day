@@ -1,0 +1,29 @@
+* {
+    background-color: #f9f9f9;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstp {
+    margin-top: 100px;
+}
+.imgcont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 400px;
+    border-radius: 1px;
+    margin-top: 20px;
+}
+
+.text {
+    max-width: 1000px;
+    text-align: justify;
+}
